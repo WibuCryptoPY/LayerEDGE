@@ -1,8 +1,4 @@
 #!/bin/bash
-
-set -e
-clear 
-
 # Colors for better readability
 RED='\033[0;31m'
 GREEN='\033[0;32m'
